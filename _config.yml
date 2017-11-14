@@ -10,7 +10,7 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-title:            Dongle Tech Blog
+title:            Dongle Blog
 tagline:          'A Jekyll theme'
 description:      'A Tech Blog'
 baseurl:          /
